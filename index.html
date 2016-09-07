@@ -13,6 +13,11 @@
     <script type="riot/tag" src="tags/show-app.tag"></script>
     <script src="vendor/riot+compiler.min.js"></script>
 
-    <script>riot.mount('app')</script>
+    <script>
+    // make app work on GitHub Page:
+    riot.route.base(location.pathname + '#')
+    // start the app
+    riot.mount('app')
+    </script>
   </body>
 </html>
