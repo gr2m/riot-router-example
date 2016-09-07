@@ -10,6 +10,8 @@ Team 2016: [Titay & Hyesoo a.k.a. Team Rookies](https://rookies-2016rgsoc.rhclou
 
 ## Usage
 
+You can see the app running at [https://gr2m.github.io/riot-router-example/](https://gr2m.github.io/riot-router-example/).
+
 Clone repository
 
 ```
