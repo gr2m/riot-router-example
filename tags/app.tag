@@ -7,13 +7,4 @@
   <script>
     riot.route.start(true)
   </script>
-
-  <style>
-    #main {
-      position: relative;
-    }
-    #notification {
-      display: none;
-    }
-  </style>
 </app>
